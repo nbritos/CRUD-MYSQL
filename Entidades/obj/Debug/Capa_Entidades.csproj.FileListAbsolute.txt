@@ -1,0 +1,6 @@
+C:\Users\nbrit\source\repos\Solution_Capas\Entidades\bin\Debug\Entidades.dll
+C:\Users\nbrit\source\repos\Solution_Capas\Entidades\bin\Debug\Entidades.pdb
+C:\Users\nbrit\source\repos\Solution_Capas\Entidades\obj\Debug\Capa_Entidades.csproj.AssemblyReference.cache
+C:\Users\nbrit\source\repos\Solution_Capas\Entidades\obj\Debug\Capa_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\nbrit\source\repos\Solution_Capas\Entidades\obj\Debug\Entidades.dll
+C:\Users\nbrit\source\repos\Solution_Capas\Entidades\obj\Debug\Entidades.pdb
